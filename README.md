@@ -34,14 +34,14 @@ Tool used: WebAIM Contrast Checker
 ## Features
 
 - [x] Mobile-first responsive layout
-- [ ] Dark mode toggle (dark styles are in place, the toggle comes with the JavaScript)
-- [ ] Page-load intro animation (GSAP timeline)
-- [ ] Scroll reveals on every section below the hero (ScrollTrigger)
-- [ ] Scroll progress bar (scrub)
-- [ ] Reduced-motion support
+- [x] Dark mode toggle (choice remembered with localStorage)
+- [x] Page-load intro animation (GSAP timeline) with a Replay intro button
+- [x] Scroll reveals on every section below the hero (ScrollTrigger)
+- [x] Scroll progress bar (scrub)
+- [x] Reduced-motion support
 - [x] Contact form with linked labels and built-in validation
-- [x] Services, gear cards, and a hero illustration built with Tailwind
+- [x] Services, gear cards, and an animated hero illustration
 
 ## Built With
 
-HTML, Tailwind CSS
+HTML, Tailwind CSS, JavaScript, GSAP, ScrollTrigger
